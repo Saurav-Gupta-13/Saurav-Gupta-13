@@ -1,3 +1,4 @@
+![logo](https://github.com/Saurav-Gupta-13/Saurav-Gupta-13/blob/main/banner.PNG)
 # 💫 About Me:
 🔭 I’m currently Studying Computer Science<br>🌱 I’m currently learning : Flutter,ReactJS,AI,Advanced JS<br>💬 Ask me about: Android,bootstrap,C,Flutter,java,python<br>📫 How to reach me: sauravmgupta13@gmail.com<br>👨‍💻 All of my projects are available at: https://astonishing-truffle-dc9a02.netlify.app/<br>📄 Know about my experiences: https://drive.google.com/file/d/1qgfOoKhNv53qPpb_KqMvJ7x3aac_SMhk/view?usp=sharing<br>⚡ Fun fact: Nothing is funnier than copy pasting code from stackoverflow in CSE rather than implementing on its own
 
