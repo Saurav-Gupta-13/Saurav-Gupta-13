@@ -1,4 +1,4 @@
-![Banner](./Linkedin Cover.png)
+![Banner](./LinkedinCover.png)
 
 # 💫 About Me:
 🎓 I’ve completed my Bachelor of Engineering in Computer Science with an Honors Specialization in Artificial Intelligence & Machine Learning (AIML).<br>🏆 GATE CS 2025 Qualified—Secured AIR 4646 among 170,825 candidates (97.29 percentile)<br>🔗 Interested in: Web & App Dev • Data Structures & Algo • Cloud Tech • DevOps • Machine Learning <br>💻 Passionate about coding, tech exploration, and problem-solving.<br>📈 Actively engaged in crypto trading <br>📫 Reach me at: sauravmgupta13@gmail.com<br>
